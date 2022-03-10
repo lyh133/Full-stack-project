@@ -18,9 +18,11 @@ Our main audience is students, teachers, and tutors, but Vroom doesn't stop ther
 2 . Tracking progress on tasks in meetings <br />
 3 . Helping cross-cultural teams achieve more with the in-chat translation feature <br />
 
-## 🧮 Our Stack 🧮
+## 🧮 Our Tech Stack 🧮
 
 - **React** for the frontend
+- **Node.js** for the backend
+- **MongoDB** for the database
 - **Bootstrap** for frontend styling
 - **Electron** to create a desktop application
 - **Express.js** to manage the local backend
